@@ -24,8 +24,6 @@ This project simulates the exact workflow a T&S Analytics team would run before 
 
 **Key fields:** views, likes, dislikes, comment count, channel name, category, trending date, comments/ratings disabled flags
 
-> Raw data not included. Download instructions in `data/README.md`
-
 ---
 
 ## The three policy scenarios simulated
